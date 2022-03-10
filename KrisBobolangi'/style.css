@@ -1,0 +1,51 @@
+table{
+    border-radius: 15px 15px 0px 0px;
+}
+#no {
+    width: 50px;
+    border-radius: 15px 0px 0px 0px;
+}
+#nis {
+    width: 100px;
+}
+#nama{
+    width: 200px;
+}
+#jenis_kel{
+    width: 20px;
+    padding: 2px 5px;
+}
+
+#alamat{
+    width: 200px;
+}
+#Aksi{
+    width: 20px;
+    padding: 2px 5px;
+}
+
+a{
+    padding: 4px 7px;
+    border-radius: 5px;
+    font-family: consolas;
+    text-decoration: none;
+    background-color: #626d71;
+    color: white;
+}
+a:hover{
+    background-color: #cdcdc0;
+}
+ 
+th{
+    font-family: candara;
+    font-weight: bold;
+    background-color: green;
+}
+td{
+    font-family: verdana;
+    color: #1E656D;
+    background-color: aqua;
+    height: 35px;
+    text-align: center;
+    font-size: 15px;
+}
